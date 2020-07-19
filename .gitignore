@@ -1,0 +1,21 @@
+# Created by https://www.toptal.com/developers/gitignore/api/vagrant
+# Edit at https://www.toptal.com/developers/gitignore?templates=vagrant
+
+### Vagrant ###
+# General
+.vagrant/
+
+# macOS files
+.DS_Store
+
+# Log files (if you are creating logs in debug mode, uncomment this)
+*.log
+
+### Vagrant Patch ###
+*.box
+
+# Ignore any .img or .vdi file since these are just build results
+*.img
+*.vdi
+
+# End of https://www.toptal.com/developers/gitignore/api/vagrant
