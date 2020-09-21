@@ -19,6 +19,6 @@ INSTALL_MOUNT_ESP="${INSTALL_MOUNT_ROOT}/boot"
 INSTALL_MOUNT_OC="${INSTALL_MOUNT_ROOT}/ocboot"
 
 # The link to OpenCore's version we'll be using
-INSTALL_OPENCORE_BUILD='https://github.com/acidanthera/OpenCorePkg/releases/download/0.5.9/OpenCore-0.5.9-RELEASE.zip'
+INSTALL_OPENCORE_BUILD='https://github.com/acidanthera/OpenCorePkg/releases/download/0.6.1/OpenCore-0.6.1-RELEASE.zip'
 INSTALL_OPENCORE_FILE='OpenCore.zip'
 INSTALL_OPENCORE_DIR='OpenCoreBase'
